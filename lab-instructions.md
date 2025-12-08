@@ -1,5 +1,5 @@
-Notice the repository name is - github-actions-lab10
-Go through the repository, there is a workflow file named script-injection-test.yml
+Notice the repository name is - github-actions-lab10. Go through the repository, there is a workflow file named script-injection-test.yml
+
 1) The workflow will trigger when a new Issue is opened
 a. It has 1 job and 2 steps
 
